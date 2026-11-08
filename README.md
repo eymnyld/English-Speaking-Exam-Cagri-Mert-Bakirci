@@ -29,6 +29,6 @@
 </details>
 
 
-[Latest version](https://github.com/eymndev/English-Speaking-Exam-Cagri-Mert-Bakirci/releases/latest)
+[Latest version](https://github.com/eymnyld/English-Speaking-Exam-Cagri-Mert-Bakirci/releases/latest)
 &
 [My blog](https://eymndev.xyz/)
